@@ -1,0 +1,4 @@
+﻿  App.cpp
+  Square.cpp
+Square.obj : error LNK2005: main already defined in App.obj
+E:\CODE\c++\SFML\App\x64\Release\App.exe : fatal error LNK1169: one or more multiply defined symbols found
